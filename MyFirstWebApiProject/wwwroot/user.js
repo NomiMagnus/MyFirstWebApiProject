@@ -49,6 +49,13 @@ const login = async () => {
         sessionStorage.setItem("User", JSON.stringify(myUser))
         document.location.href = "https://localhost:44331/mySite.html"
         alert(`Welcome ${myUser.fName}!`);
+
+        //const u = JSON.parse(sessionStorage.getItem('User'))
+        //document.getElementById("txtFName").value = u.fName
+        //document.getElementById("txtLName").value = u.lName
+        //document.getElementById("txtEmail").value = u.email
+        //document.getElementById("txtPassword").value = u.password
+
     }
     catch (ex) {
         alert(ex.message)

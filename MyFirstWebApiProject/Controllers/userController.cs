@@ -20,9 +20,9 @@ namespace MyFirstWebApiProject.Controllers
 
         // GET: api/<loginController>
         [HttpGet]
-        public ActionResult Get([FromQuery] string email, string password)
+        public async Task<ActionResult> Get([FromQuery] string email, string password)
         {
-            User user= _userService.GetUserByUserNameAndPassword(email, password);
+            User user= await _userService.GetUserByUserNameAndPassword(email, password);
             if(user==null)
                 return NoContent();
             return Ok(user);
@@ -37,23 +37,23 @@ namespace MyFirstWebApiProject.Controllers
 
         // POST api/<loginController>
         [HttpPost]
-        public ActionResult Post([FromBody] User user)
+        public async Task<ActionResult> Post([FromBody] User user)
         {
-            User newUser = _userService.AddUser(user);
-            return CreatedAtAction(nameof(Get), new { id = newUser.userId }, newUser);            
+            User newUser = await _userService.AddUser(user);
+            return CreatedAtAction(nameof(Get), new { id = newUser.userId }, newUser);
         }
 
         [HttpPost("checkPassword")]
-        public ActionResult CheckPassword([FromBody]string pwd)
+        public  ActionResult CheckPassword([FromBody]string pwd)
         {
-            return Ok(_userService.checkpassword(pwd));
+            return Ok( _userService.checkpassword(pwd));
         }
 
         // PUT api/<loginController>/5
         [HttpPut("{id}")]
-        public ActionResult Put(int id, [FromBody] User userToUpdate)
+        public async Task<ActionResult> Put(int id, [FromBody] User userToUpdate)
         {
-            if (_userService.UpdateUser(id, userToUpdate))
+            if (await _userService.UpdateUser(id, userToUpdate))
                 return Ok();
             return NoContent();
         }

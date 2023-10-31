@@ -4,9 +4,9 @@ namespace Services
 {
     public interface IUserService
     {
-        User AddUser(User user);
+        Task<User> AddUser(User user);
         int checkpassword(string pwd);
-        User GetUserByUserNameAndPassword(string email, string password);
-        bool UpdateUser(int id, User userToUpdate);
+        Task<User> GetUserByUserNameAndPassword(string email, string password);
+        Task<bool> UpdateUser(int id, User userToUpdate);
     }
 }

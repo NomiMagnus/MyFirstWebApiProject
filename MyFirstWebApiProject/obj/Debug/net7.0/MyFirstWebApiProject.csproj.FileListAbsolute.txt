@@ -165,3 +165,38 @@ F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProje
 F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.pdb
 F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.genruntimeconfig.cache
 F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\ref\MyFirstWebApiProject.dll
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\appsettings.json
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.staticwebassets.runtime.json
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.exe
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.deps.json
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.runtimeconfig.json
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.dll
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.pdb
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\zxcvbn-core.dll
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Entities.dll
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Repository.dll
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Services.dll
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Services.pdb
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Entities.pdb
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Repository.pdb
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.AssemblyReference.cache
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.AssemblyInfoInputs.cache
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.AssemblyInfo.cs
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.CoreCompileInputs.cache
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.MyFirstWebApiProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.build.MyFirstWebApiProject.props
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyFirstWebApiProject.props
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyFirstWebApiProject.props
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\scopedcss\bundle\MyFirstWebApiProject.styles.css
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.CopyComplete
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.dll
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\refint\MyFirstWebApiProject.dll
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.pdb
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.genruntimeconfig.cache
+C:\Users\325573392\Desktop\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\ref\MyFirstWebApiProject.dll

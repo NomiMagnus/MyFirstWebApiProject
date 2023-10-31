@@ -1,2 +1,3 @@
 {"fName":"nomi","lName":"magnus","email":"nomi@magnus","password":"NomiMagnus1","userId":1}
 {"fName":"Pnini","lName":"Gulkarov","email":"pnini@pnini","password":"pninigul3","userId":2}
+{"fName":"ee","lName":"ee","email":"ee@ee","password":"apsodifu1","userId":3}

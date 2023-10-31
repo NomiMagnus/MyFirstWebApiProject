@@ -58,3 +58,18 @@ F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProje
 F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\Repository\obj\Debug\net7.0\refint\Repository.dll
 F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\Repository\obj\Debug\net7.0\Repository.pdb
 F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Users\325573392\Desktop\MyFirstWebApiProject\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\325573392\Desktop\MyFirstWebApiProject\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\325573392\Desktop\MyFirstWebApiProject\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\325573392\Desktop\MyFirstWebApiProject\Repository\bin\Debug\net7.0\Entities.dll
+C:\Users\325573392\Desktop\MyFirstWebApiProject\Repository\bin\Debug\net7.0\Entities.pdb
+C:\Users\325573392\Desktop\MyFirstWebApiProject\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\325573392\Desktop\MyFirstWebApiProject\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\325573392\Desktop\MyFirstWebApiProject\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\325573392\Desktop\MyFirstWebApiProject\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\325573392\Desktop\MyFirstWebApiProject\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\325573392\Desktop\MyFirstWebApiProject\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\325573392\Desktop\MyFirstWebApiProject\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\325573392\Desktop\MyFirstWebApiProject\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\325573392\Desktop\MyFirstWebApiProject\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\325573392\Desktop\MyFirstWebApiProject\Repository\obj\Debug\net7.0\ref\Repository.dll

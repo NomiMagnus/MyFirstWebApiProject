@@ -11,21 +11,21 @@ namespace Repository
     public class UserRepository : IUserRepository
     {
         private const string filePath = "users.txt";
-        public User AddUser(User user)
+        public async Task<User> AddUser(User user)
         {
             int numberOfUsers = System.IO.File.ReadLines(filePath).Count();
             user.userId = numberOfUsers + 1;
             string userJson = JsonSerializer.Serialize(user);
-            System.IO.File.AppendAllText(filePath, userJson + Environment.NewLine);
+            await System.IO.File.AppendAllTextAsync(filePath, userJson + Environment.NewLine);
             return user;
         }
 
-        public User GetUserByEmailAndPassword(string email, string password)
+        public async Task<User> GetUserByEmailAndPassword(string email, string password)
         {
             using (StreamReader reader = System.IO.File.OpenText(filePath))
             {
                 string? currentUserInFile;
-                while ((currentUserInFile = reader.ReadLine()) != null)
+                while ((currentUserInFile = await reader.ReadLineAsync()) != null)
                 {
                     User user = JsonSerializer.Deserialize<User>(currentUserInFile);
                     if (user?.email == email && user?.password == password)
@@ -35,13 +35,13 @@ namespace Repository
             return null;
         }
 
-        public bool UpdateUser(int id, User userToUpdate)
+        public async Task<bool> UpdateUser(int id, User userToUpdate)
         {
             string textToReplace = string.Empty;
             using (StreamReader reader = System.IO.File.OpenText(filePath))
             {
                 string currentUserInFile;
-                while ((currentUserInFile = reader.ReadLine()) != null)
+                while ((currentUserInFile = await reader.ReadLineAsync()) != null)
                 {
                     User user = JsonSerializer.Deserialize<User>(currentUserInFile);
                     if (user.userId == id)
@@ -53,7 +53,7 @@ namespace Repository
             {
                 string text = System.IO.File.ReadAllText(filePath);
                 text = text.Replace(textToReplace, JsonSerializer.Serialize(userToUpdate));
-                System.IO.File.WriteAllText(filePath, text);
+                await System.IO.File.WriteAllTextAsync(filePath, text);
                 return true;
             }
             return false;

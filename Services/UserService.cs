@@ -13,23 +13,23 @@ namespace Services
             _userRepository = userRepository;
         }
 
-        public User AddUser(User user)
+        public async Task<User> AddUser(User user)
         {
-            return _userRepository.AddUser(user);
+            return await _userRepository.AddUser(user);
         }
 
-        public User GetUserByUserNameAndPassword(string email, string password)
+        public async Task<User> GetUserByUserNameAndPassword(string email, string password)
         {
-            return _userRepository.GetUserByEmailAndPassword(email, password);
+            return await _userRepository.GetUserByEmailAndPassword(email, password);
         }
 
-        public bool UpdateUser(int id, User userToUpdate)
+        public async Task<bool> UpdateUser(int id, User userToUpdate)
         {
-            return _userRepository.UpdateUser(id, userToUpdate);
+            return await _userRepository.UpdateUser(id, userToUpdate);
         }
         public int checkpassword(string pwd)
         {
-            var result = Zxcvbn.Core.EvaluatePassword(pwd);
+            var result =  Zxcvbn.Core.EvaluatePassword(pwd);
             return result.Score;
         }
     }
