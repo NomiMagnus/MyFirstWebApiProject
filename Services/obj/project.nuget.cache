@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kcPOaKaZoPZsLkxpsxV+lf8JFKLFYNhkPJfTmFsXzi+lfDm/UFYyzIJu+g/2WkMSEmz18XS5Jd2xv3kIdGIbWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\325573392\\.nuget\\packages\\zxcvbn-core\\7.0.92\\zxcvbn-core.7.0.92.nupkg.sha512"
+  ],
+  "logs": []
+}

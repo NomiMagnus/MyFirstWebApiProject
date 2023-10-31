@@ -1,0 +1,167 @@
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\appsettings.Development.json
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\appsettings.json
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.staticwebassets.runtime.json
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.exe
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.deps.json
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.runtimeconfig.json
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.dll
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.pdb
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.AssemblyReference.cache
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.GeneratedMSBuildEditorConfig.editorconfig
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.AssemblyInfoInputs.cache
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.AssemblyInfo.cs
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.CoreCompileInputs.cache
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.MvcApplicationPartsAssemblyInfo.cache
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.MyFirstWebApiProject.Microsoft.AspNetCore.StaticWebAssets.props
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.build.MyFirstWebApiProject.props
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyFirstWebApiProject.props
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyFirstWebApiProject.props
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.pack.json
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.build.json
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.development.json
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\scopedcss\bundle\MyFirstWebApiProject.styles.css
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.dll
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\refint\MyFirstWebApiProject.dll
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.pdb
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.genruntimeconfig.cache
+M:\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\ref\MyFirstWebApiProject.dll
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\appsettings.Development.json
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\appsettings.json
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.staticwebassets.runtime.json
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.exe
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.deps.json
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.runtimeconfig.json
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.dll
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.pdb
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.AssemblyReference.cache
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.AssemblyInfoInputs.cache
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.AssemblyInfo.cs
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.CoreCompileInputs.cache
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.MvcApplicationPartsAssemblyInfo.cache
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.MyFirstWebApiProject.Microsoft.AspNetCore.StaticWebAssets.props
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.build.MyFirstWebApiProject.props
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyFirstWebApiProject.props
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyFirstWebApiProject.props
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.pack.json
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.build.json
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.development.json
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\scopedcss\bundle\MyFirstWebApiProject.styles.css
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.dll
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\refint\MyFirstWebApiProject.dll
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.pdb
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.genruntimeconfig.cache
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\ref\MyFirstWebApiProject.dll
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\zxcvbn-core.dll
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.CopyComplete
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Entities.dll
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Repository.dll
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Services.dll
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Services.pdb
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Entities.pdb
+F:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Repository.pdb
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\appsettings.Development.json
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\appsettings.json
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.staticwebassets.runtime.json
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.exe
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.deps.json
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.runtimeconfig.json
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.dll
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.pdb
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\zxcvbn-core.dll
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Entities.dll
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Repository.dll
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Services.dll
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Services.pdb
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Entities.pdb
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Repository.pdb
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.AssemblyReference.cache
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.AssemblyInfoInputs.cache
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.AssemblyInfo.cs
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.CoreCompileInputs.cache
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.MvcApplicationPartsAssemblyInfo.cache
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.MyFirstWebApiProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.build.MyFirstWebApiProject.props
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyFirstWebApiProject.props
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyFirstWebApiProject.props
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.pack.json
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.build.json
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.development.json
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\scopedcss\bundle\MyFirstWebApiProject.styles.css
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.CopyComplete
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.dll
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\refint\MyFirstWebApiProject.dll
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.pdb
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.genruntimeconfig.cache
+E:\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\ref\MyFirstWebApiProject.dll
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\appsettings.Development.json
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\appsettings.json
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.staticwebassets.runtime.json
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.exe
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.deps.json
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.runtimeconfig.json
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.dll
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.pdb
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\zxcvbn-core.dll
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Entities.dll
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Repository.dll
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Services.dll
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Services.pdb
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Entities.pdb
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Repository.pdb
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.AssemblyReference.cache
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.AssemblyInfoInputs.cache
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.AssemblyInfo.cs
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.CoreCompileInputs.cache
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.MvcApplicationPartsAssemblyInfo.cache
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.MyFirstWebApiProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.build.MyFirstWebApiProject.props
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyFirstWebApiProject.props
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyFirstWebApiProject.props
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.pack.json
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.build.json
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.development.json
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\scopedcss\bundle\MyFirstWebApiProject.styles.css
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.CopyComplete
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.dll
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\refint\MyFirstWebApiProject.dll
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.pdb
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.genruntimeconfig.cache
+E:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\ref\MyFirstWebApiProject.dll
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\appsettings.Development.json
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\appsettings.json
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.staticwebassets.runtime.json
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.exe
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.deps.json
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.runtimeconfig.json
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.dll
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\MyFirstWebApiProject.pdb
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\zxcvbn-core.dll
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Entities.dll
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Repository.dll
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Services.dll
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Services.pdb
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Entities.pdb
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\bin\Debug\net7.0\Repository.pdb
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.AssemblyReference.cache
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.AssemblyInfoInputs.cache
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.AssemblyInfo.cs
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.CoreCompileInputs.cache
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.MvcApplicationPartsAssemblyInfo.cache
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.MyFirstWebApiProject.Microsoft.AspNetCore.StaticWebAssets.props
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.build.MyFirstWebApiProject.props
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyFirstWebApiProject.props
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyFirstWebApiProject.props
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.pack.json
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.build.json
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\staticwebassets.development.json
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\scopedcss\bundle\MyFirstWebApiProject.styles.css
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.csproj.CopyComplete
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.dll
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\refint\MyFirstWebApiProject.dll
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.pdb
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\MyFirstWebApiProject.genruntimeconfig.cache
+F:\לימודים\כונן M מהסמינר\שנה ב\WEB API\MyFirstWebApiProject\MyFirstWebApiProject\obj\Debug\net7.0\ref\MyFirstWebApiProject.dll

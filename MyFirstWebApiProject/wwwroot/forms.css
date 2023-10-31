@@ -1,0 +1,42 @@
+﻿input {
+    width: 90%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #d6c1a14f;
+    opacity:0.8;
+}
+
+input:focus {
+    background-color: #d6c1a1;
+    outline: none;
+}
+
+button {
+    background-color: #78a07a;
+    color: #3c575a;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    font-family: Calibri;
+    font-size: x-large;
+}
+
+button:hover, :focus {
+    opacity: 1;
+    color:white;
+}
+
+.container {
+    padding: 16px;
+    font-family: Calibri;
+    font-size: x-large;
+    width: 250px;
+    background-color: #faebd77d;
+    color: #3c575a;
+}
+

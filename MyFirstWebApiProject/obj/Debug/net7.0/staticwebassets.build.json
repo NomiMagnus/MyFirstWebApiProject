@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "DkAJ2VNUz/R//UctO2JeiFrIfuRsc3yFGLM+6sBCIhg=",
+  "Source": "MyFirstWebApiProject",
+  "BasePath": "_content/MyFirstWebApiProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyFirstWebApiProject\\wwwroot",
+      "Source": "MyFirstWebApiProject",
+      "ContentRoot": "E:\\לימודים\\כונן M מהסמינר\\שנה ב\\WEB API\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "BasePath": "_content/MyFirstWebApiProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\לימודים\\כונן M מהסמינר\\שנה ב\\WEB API\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\forms.css",
+      "SourceId": "MyFirstWebApiProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\לימודים\\כונן M מהסמינר\\שנה ב\\WEB API\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "BasePath": "_content/MyFirstWebApiProject",
+      "RelativePath": "forms.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\forms.css"
+    },
+    {
+      "Identity": "E:\\לימודים\\כונן M מהסמינר\\שנה ב\\WEB API\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\login.html",
+      "SourceId": "MyFirstWebApiProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\לימודים\\כונן M מהסמינר\\שנה ב\\WEB API\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "BasePath": "_content/MyFirstWebApiProject",
+      "RelativePath": "login.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    },
+    {
+      "Identity": "E:\\לימודים\\כונן M מהסמינר\\שנה ב\\WEB API\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\mySite.html",
+      "SourceId": "MyFirstWebApiProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\לימודים\\כונן M מהסמינר\\שנה ב\\WEB API\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "BasePath": "_content/MyFirstWebApiProject",
+      "RelativePath": "mySite.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mySite.html"
+    },
+    {
+      "Identity": "E:\\לימודים\\כונן M מהסמינר\\שנה ב\\WEB API\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\user.js",
+      "SourceId": "MyFirstWebApiProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\לימודים\\כונן M מהסמינר\\שנה ב\\WEB API\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "BasePath": "_content/MyFirstWebApiProject",
+      "RelativePath": "user.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user.js"
+    }
+  ]
+}
