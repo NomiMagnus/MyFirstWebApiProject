@@ -15,15 +15,15 @@ namespace MyFirstWebApiProject.Controllers
 
         public userController(IUserService userService)
         {
-            this._userService = userService;
+            _userService = userService;
         }
 
         // GET: api/<loginController>
         [HttpGet]
         public async Task<ActionResult> Get([FromQuery] string email, string password)
         {
-            User user= await _userService.GetUserByUserNameAndPassword(email, password);
-            if(user==null)
+            User user = await _userService.GetUserByUserNameAndPassword(email, password);
+            if(user == null)
                 return NoContent();
             return Ok(user);
         }
@@ -40,7 +40,7 @@ namespace MyFirstWebApiProject.Controllers
         public async Task<ActionResult> Post([FromBody] User user)
         {
             User newUser = await _userService.AddUser(user);
-            return CreatedAtAction(nameof(Get), new { id = newUser.userId }, newUser);
+            return CreatedAtAction(nameof(Get), new { id = newUser.UserId }, newUser);
         }
 
         [HttpPost("checkPassword")]
@@ -51,11 +51,9 @@ namespace MyFirstWebApiProject.Controllers
 
         // PUT api/<loginController>/5
         [HttpPut("{id}")]
-        public async Task<ActionResult> Put(int id, [FromBody] User userToUpdate)
+        public async Task Put(int id, [FromBody] User userToUpdate)
         {
-            if (await _userService.UpdateUser(id, userToUpdate))
-                return Ok();
-            return NoContent();
+            await _userService.UpdateUser(id, userToUpdate);
         }
 
         // DELETE api/<loginController>/5

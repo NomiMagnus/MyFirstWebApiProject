@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Repository"
   ],
-  "SelectedNode": "\\MyFirstWebApiProject.sln",
+  "SelectedNode": "\\Entities",
   "PreviewInSolutionExplorer": false
 }

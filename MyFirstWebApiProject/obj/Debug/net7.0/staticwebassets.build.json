@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L5U9eZBeKBHXjNB1bLq8R9ajrzqPANLHfYH04b5qC+I=",
+  "Hash": "Xq84A1kOG37R5gABMvtRzc03cAiBMFdMplxBuKFP95U=",
   "Source": "MyFirstWebApiProject",
   "BasePath": "_content/MyFirstWebApiProject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MyFirstWebApiProject\\wwwroot",
       "Source": "MyFirstWebApiProject",
-      "ContentRoot": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
       "BasePath": "_content/MyFirstWebApiProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\forms.css",
+      "Identity": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\forms.css",
       "SourceId": "MyFirstWebApiProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
       "BasePath": "_content/MyFirstWebApiProject",
       "RelativePath": "forms.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\forms.css"
     },
     {
-      "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\login.html",
+      "Identity": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\login.html",
       "SourceId": "MyFirstWebApiProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
       "BasePath": "_content/MyFirstWebApiProject",
       "RelativePath": "login.html",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\login.html"
     },
     {
-      "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\mySite.html",
+      "Identity": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\mySite.html",
       "SourceId": "MyFirstWebApiProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
       "BasePath": "_content/MyFirstWebApiProject",
       "RelativePath": "mySite.html",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\mySite.html"
     },
     {
-      "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\user.js",
+      "Identity": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\user.js",
       "SourceId": "MyFirstWebApiProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
       "BasePath": "_content/MyFirstWebApiProject",
       "RelativePath": "user.js",
       "AssetKind": "All",

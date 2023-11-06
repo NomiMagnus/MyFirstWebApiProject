@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\MyFirstWebApiProject.csproj": {}
+    "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\MyFirstWebApiProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\325573392\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,18 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\MyFirstWebApiProject.csproj": {
+    "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\MyFirstWebApiProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\MyFirstWebApiProject.csproj",
+        "projectUniqueName": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\MyFirstWebApiProject.csproj",
         "projectName": "MyFirstWebApiProject",
-        "projectPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\MyFirstWebApiProject.csproj",
+        "projectPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\MyFirstWebApiProject.csproj",
         "packagesPath": "C:\\Users\\325573392\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\obj\\",
+        "outputPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -92,8 +104,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Services\\Services.csproj"
+              "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Services\\Services.csproj"
               }
             }
           }
@@ -108,6 +120,16 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
             "zxcvbn-core": {
               "target": "Package",
               "version": "[7.0.92, )"
@@ -136,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Repository\\Repository.csproj": {
+    "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\325573392\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -164,8 +186,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Entities\\Entities.csproj"
+              "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -199,14 +221,14 @@
         }
       }
     },
-    "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Services\\Services.csproj": {
+    "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\325573392\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Services\\obj\\",
+        "outputPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -227,11 +249,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Entities\\Entities.csproj"
+              "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Repository\\Repository.csproj"
+              "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Repository\\Repository.csproj"
               }
             }
           }

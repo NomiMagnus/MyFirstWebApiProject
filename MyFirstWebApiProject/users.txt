@@ -1,3 +1,7 @@
 {"fName":"nomi","lName":"magnus","email":"nomi@magnus","password":"NomiMagnus1","userId":1}
 {"fName":"Pnini","lName":"Gulkarov","email":"pnini@pnini","password":"pninigul3","userId":2}
 {"fName":"ee","lName":"ee","email":"ee@ee","password":"apsodifu1","userId":3}
+{"fName":"tt","lName":"tt","email":"t@t","password":"325573392tt","userId":4}
+{"fName":"ee","lName":"kk","email":"le7k9286@gmail.com","password":"elisheva7915!","userId":5}
+{"UserId":6,"Email":"aa@aa","FirstName":null,"LastName":null,"Password":"3255733aaa","Orders":[]}
+{"UserId":7,"Email":"g02@a","FirstName":null,"LastName":null,"Password":"326206687","Orders":[]}

@@ -23,9 +23,9 @@ namespace Services
             return await _userRepository.GetUserByEmailAndPassword(email, password);
         }
 
-        public async Task<bool> UpdateUser(int id, User userToUpdate)
+        public async Task UpdateUser(int id, User userToUpdate)
         {
-            return await _userRepository.UpdateUser(id, userToUpdate);
+            await _userRepository.UpdateUser(id, userToUpdate);
         }
         public int checkpassword(string pwd)
         {
