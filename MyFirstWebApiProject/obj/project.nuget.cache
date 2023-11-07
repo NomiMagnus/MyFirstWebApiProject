@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Xa3EZGclgbSDXzYENC3i04Vdie4fbxUj9OhR9n6+uFTsWGkM6tuTkp7VxXEoBJWmhPfDDe8ABjH90b6g0CDpVA==",
+  "dgSpecHash": "UWD5WpWU4VeFOJUW6g7KqBBMv1gOnzMRSzKo5yzv5X38atTtfWpkfob/gI/Dlm4js5vfEY6jQzwPwuCGL13cBw==",
   "success": true,
   "projectFilePath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\MyFirstWebApiProject.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\325573392\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.13\\microsoft.entityframeworkcore.design.7.0.13.nupkg.sha512",
     "C:\\Users\\325573392\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.13\\microsoft.entityframeworkcore.relational.7.0.13.nupkg.sha512",
     "C:\\Users\\325573392\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.13\\microsoft.entityframeworkcore.sqlserver.7.0.13.nupkg.sha512",
+    "C:\\Users\\325573392\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.13\\microsoft.entityframeworkcore.tools.7.0.13.nupkg.sha512",
     "C:\\Users\\325573392\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\325573392\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\325573392\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",

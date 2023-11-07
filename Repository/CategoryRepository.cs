@@ -17,9 +17,14 @@ namespace Repository
             _myStoreContext = myStoreContext;
         }
 
-        public async Task<IEnumerable<Category>> getAllCategories()
+        public async Task<IEnumerable<Category>> GetAllCategories()
         {
             return await _myStoreContext.Categories.ToListAsync();
+        }
+
+        public async Task<Category> GetCategoryById(int id)
+        {
+            return await _myStoreContext.Categories.FindAsync(id);
         }
     }
 }

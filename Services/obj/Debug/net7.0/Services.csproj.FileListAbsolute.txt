@@ -83,6 +83,11 @@ C:\Users\325573392\Desktop\MyFirstWebApiProject\Services\obj\Debug\net7.0\Servic
 C:\Users\325573392\Desktop\MyFirstWebApiProject\Services\obj\Debug\net7.0\refint\Services.dll
 C:\Users\325573392\Desktop\MyFirstWebApiProject\Services\obj\Debug\net7.0\Services.pdb
 C:\Users\325573392\Desktop\MyFirstWebApiProject\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
 C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\bin\Debug\net7.0\Services.deps.json
 C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\bin\Debug\net7.0\Services.dll
 C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\bin\Debug\net7.0\Services.pdb
@@ -90,11 +95,6 @@ C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\bin\Deb
 C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\bin\Debug\net7.0\Repository.dll
 C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\bin\Debug\net7.0\Entities.pdb
 C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\bin\Debug\net7.0\Repository.pdb
-C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
-C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
-C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
-C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
 C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
 C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\obj\Debug\net7.0\Services.dll
 C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Services\obj\Debug\net7.0\refint\Services.dll

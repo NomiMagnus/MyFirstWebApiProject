@@ -16,7 +16,8 @@ namespace Repository
         {
             _myStoreContext = myStoreContext;
         }
-        public async Task<IEnumerable<Product>> getAllProducts()
+
+        public async Task<IEnumerable<Product>> GetAllProducts()
         {
             return await _myStoreContext.Products.ToListAsync();
         }

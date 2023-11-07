@@ -70,5 +70,3 @@ C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Entities\obj\Deb
 C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Entities\obj\Debug\net7.0\refint\Entities.dll
 C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Entities\obj\Debug\net7.0\Entities.pdb
 C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Entities\obj\Debug\net7.0\ref\Entities.dll
-C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Entities\bin\Debug\net7.0\Entities.runtimeconfig.json
-C:\Users\325573392\Source\Repos\NomiMagnus\MyFirstWebApiProject\Entities\obj\Debug\net7.0\Entities.genruntimeconfig.cache

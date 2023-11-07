@@ -4,6 +4,6 @@ namespace Repository
 {
     public interface IProductRepository
     {
-        Task<IEnumerable<Product>> getAllProducts();
+        Task<IEnumerable<Product>> GetAllProducts();
     }
 }

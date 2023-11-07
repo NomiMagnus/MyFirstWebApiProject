@@ -9,11 +9,11 @@ namespace MyFirstWebApiProject.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class userController : ControllerBase
+    public class UserController : ControllerBase
     {
         IUserService _userService;
 
-        public userController(IUserService userService)
+        public UserController(IUserService userService)
         {
             _userService = userService;
         }

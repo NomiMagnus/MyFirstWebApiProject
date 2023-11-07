@@ -4,6 +4,7 @@ namespace Repository
 {
     public interface ICategoryRepository
     {
-        Task<IEnumerable<Category>> getAllCategories();
+        Task<IEnumerable<Category>> GetAllCategories();
+        Task<Category> GetCategoryById(int id);
     }
 }

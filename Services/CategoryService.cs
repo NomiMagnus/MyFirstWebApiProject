@@ -17,9 +17,14 @@ namespace Services
             _categoryRepository = categoryRepository;
         }
 
-        public async Task<IEnumerable<Category>> getAllCategories()
+        public async Task<IEnumerable<Category>> GetAllCategories()
         {
-            return await _categoryRepository.getAllCategories();
+            return await _categoryRepository.GetAllCategories();
+        }
+
+        public async Task<Category> GetCategoryById(int id)
+        {
+            return await _categoryRepository.GetCategoryById(id);
         }
     }
 }

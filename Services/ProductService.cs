@@ -17,9 +17,9 @@ namespace Services
         {
             _productRepository = userRepository;
         }
-        public async Task<IEnumerable<Product>> getAllProducts()
+        public async Task<IEnumerable<Product>> GetAllProducts()
         {
-            return await _productRepository.getAllProducts();
+            return await _productRepository.GetAllProducts();
         }
     }
 }

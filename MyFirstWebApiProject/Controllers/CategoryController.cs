@@ -10,18 +10,25 @@ namespace MyFirstWebApiProject.Controllers
     [ApiController]
     public class CategoryController : ControllerBase
     {
-        ICategoryService categoryService;
+        ICategoryService _categoryService;
 
         public CategoryController(ICategoryService categoryService)
         {
-            this.categoryService = categoryService;
+            _categoryService = categoryService;
         }
 
         // GET: api/<CategoryController>
         [HttpGet]
         public async Task<IEnumerable<Category>> Get()
         {
-            return await categoryService.getAllCategories();
+            return await _categoryService.GetAllCategories();
+        }
+
+        // GET api/<categoryController>/5
+        [HttpGet("{id}")]
+        public async Task<Category> Get(int id)
+        {
+            return await _categoryService.GetCategoryById(id);
         }
 
        
