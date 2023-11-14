@@ -25,8 +25,20 @@
       "PackagePath": "staticwebassets\\mySite.html"
     },
     {
+      "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\pic\\NoPic.png",
+      "PackagePath": "staticwebassets\\pic\\NoPic.png"
+    },
+    {
+      "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.css",
+      "PackagePath": "staticwebassets\\store.css"
+    },
+    {
       "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.html",
       "PackagePath": "staticwebassets\\store.html"
+    },
+    {
+      "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.js",
+      "PackagePath": "staticwebassets\\store.js"
     },
     {
       "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\user.js",

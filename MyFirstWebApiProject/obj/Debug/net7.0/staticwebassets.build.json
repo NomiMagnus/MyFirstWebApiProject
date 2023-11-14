@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Y1SOrxaUU7XUE8Ocm2RSlUfxWsVXwtE/CSBZxy+Vljc=",
+  "Hash": "0xUKPScMLbXvjQ8vGT2kjwRhQj0sywYL70miMKcjJ3M=",
   "Source": "MyFirstWebApiProject",
   "BasePath": "_content/MyFirstWebApiProject",
   "Mode": "Default",
@@ -119,6 +119,40 @@
       "OriginalItemSpec": "wwwroot\\mySite.html"
     },
     {
+      "Identity": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\pic\\NoPic.png",
+      "SourceId": "MyFirstWebApiProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "BasePath": "_content/MyFirstWebApiProject",
+      "RelativePath": "pic/NoPic.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic\\NoPic.png"
+    },
+    {
+      "Identity": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.css",
+      "SourceId": "MyFirstWebApiProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "BasePath": "_content/MyFirstWebApiProject",
+      "RelativePath": "store.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\store.css"
+    },
+    {
       "Identity": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.html",
       "SourceId": "MyFirstWebApiProject",
       "SourceType": "Discovered",
@@ -134,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\store.html"
+    },
+    {
+      "Identity": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.js",
+      "SourceId": "MyFirstWebApiProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "BasePath": "_content/MyFirstWebApiProject",
+      "RelativePath": "store.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\store.js"
     },
     {
       "Identity": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\user.js",

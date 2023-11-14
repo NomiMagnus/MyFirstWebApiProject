@@ -1,8 +1,8 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <!--<script src="../Products.js"></script>-->
-    <!--<link href="../Products.css" rel="stylesheet" />-->
+    <script src="../store.js"></script>
+    <link href="../store.css" rel="stylesheet" />
 
     <meta charset="utf-8" />
     <title>Toy World</title>
@@ -29,11 +29,9 @@
         </div>
     </template>
 </head>
-<body>
+<body onload="filterProducts()">
     <header>
         <div class="bar">
-
-
             <section class="QuickLinks">
                 <ul>
                     <li class="" data-section="myAccount">
@@ -103,8 +101,7 @@
         </div>
     </div>
 
-    <div id="PoductList">
-
+    <div id="ProductList">
     </div>
     <div class="pagination">
         <a href="#">&laquo;</a>
