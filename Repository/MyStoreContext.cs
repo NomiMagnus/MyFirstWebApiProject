@@ -89,6 +89,10 @@ public partial class MyStoreContext : DbContext
                 .HasMaxLength(100)
                 .IsFixedLength()
                 .HasColumnName("DESCRIPTION");
+            entity.Property(e => e.Image)
+                .HasMaxLength(50)
+                .IsFixedLength()
+                .HasColumnName("IMAGE");
             entity.Property(e => e.Price).HasColumnName("PRICE");
             entity.Property(e => e.ProductName)
                 .HasMaxLength(15)
@@ -97,7 +101,7 @@ public partial class MyStoreContext : DbContext
 
             entity.HasOne(d => d.Category).WithMany(p => p.Products)
                 .HasForeignKey(d => d.CategoryId)
-                .HasConstraintName("FK_PRODUCTS_CATEGORIES1");
+                .HasConstraintName("FK_PRODUCTS_CATEGORIES");
         });
 
         modelBuilder.Entity<User>(entity =>

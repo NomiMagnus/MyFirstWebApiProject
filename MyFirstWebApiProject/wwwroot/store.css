@@ -69,25 +69,48 @@ p.description {
     font-size: 22px;
 }
 
+button {
+    background-color: #78a07a;
+    color: #3c575a;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    font-family: Calibri;
+    font-size: x-large;
+}
+
+    button:hover, :focus {
+        opacity: 1;
+        color: white;
+    }
+
 .card button {
     border: none;
     outline: 0;
     padding: 12px;
-    color: white;
-    background-color: #000;
+    background-color: #78a07a;
+    color: #3c575a;
     text-align: center;
     cursor: pointer;
     width: 100%;
-    font-size: 18px;
+    opacity: 0.9;
+    font-family: Calibri;
+    font-size: x-large;
 }
 
     .card button:hover {
-        opacity: 0.7;
+        opacity: 1;
+        color: white;
     }
 
 .bar {
     background-color: #3c575a;
     height: 35px;
+    /*position:relative;
+    margin:0px;*/
 }
 
 .Icon {

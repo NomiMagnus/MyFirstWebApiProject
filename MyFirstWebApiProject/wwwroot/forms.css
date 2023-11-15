@@ -5,13 +5,13 @@
     display: inline-block;
     border: none;
     background: #d6c1a14f;
-    opacity:0.8;
+    opacity: 0.8;
 }
 
-input:focus {
-    background-color: #d6c1a1;
-    outline: none;
-}
+    input:focus {
+        background-color: #d6c1a1;
+        outline: none;
+    }
 
 button {
     background-color: #78a07a;
@@ -26,10 +26,10 @@ button {
     font-size: x-large;
 }
 
-button:hover, :focus {
-    opacity: 1;
-    color:white;
-}
+    button:hover, :focus {
+        opacity: 1;
+        color: white;
+    }
 
 .container {
     padding: 16px;
@@ -39,4 +39,3 @@ button:hover, :focus {
     background-color: #faebd77d;
     color: #3c575a;
 }
-
