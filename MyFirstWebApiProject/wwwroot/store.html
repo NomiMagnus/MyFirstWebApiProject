@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html>
 <html>
-<head>
+<head dir="ltr">
     <script src="../store.js"></script>
     <link href="../store.css" rel="stylesheet" />
 
@@ -20,7 +20,7 @@
     </template>
     <template id="temp-category">
         <div class="cb checkbox">
-            <input type="checkbox" class="opt" id="" value="">
+            <input type="checkbox" class="opt" id="" value="" onchanges="filterProducts()">
             <label for="">
                 <span class="OptionName"></span>
                 <span class="Count"></span>
@@ -29,7 +29,7 @@
         </div>
     </template>
 </head>
-<body onload="filterProducts()">
+<body onload="drawCategories(); filterProducts()">
     <header>
         <div class="bar">
             <section class="QuickLinks">
@@ -81,7 +81,7 @@
 
         <div id="nameFilter" class="nameFilter filterBreak">
 
-            <input type="text" id="nameSearch" class="floatRight" placeholder="חיפוש לפי שם מוצר">
+            <input type="text" id="nameSearch" class="floatRight" placeholder="...I want to find">
 
             <button class="floatRight" tabindex="0" onclick="filterProducts()">
                 <span class="header42"><img src="icon/searchIcon.svg" alt="סמל חיפוש"></span>
@@ -90,10 +90,10 @@
         <div id="priceRangeFilter" class="filterBreak">
             <div><span id="counter">  </span> מחיר:</div>
 
-            <input type="text" maxlength="9" id="minPrice" class="priceInputText">
+            <input type="text" maxlength="9" id="minPrice" class="priceInputText" placeholder="Min">
             <span class="priceCurrency">₪</span>
 
-            <input type="text" maxlength="9" id="maxPrice" class="priceInputText">
+            <input type="text" maxlength="9" id="maxPrice" class="priceInputText" placeholder="Max">
             <span class="priceCurrency">₪</span>
             <button onclick="filterProducts()">
                 <span><img src="icon/searchIcon.svg" alt="סמל חיפוש"></span>

@@ -17,9 +17,9 @@ namespace Services
         {
             _productRepository = userRepository;
         }
-        public async Task<List<Product>> getProducts(string? Desc, int? minPrice, int? maxPrice, int?[] categoryIds)
+        public async Task<List<Product>> getProducts(string? desc, int? minPrice, int? maxPrice, int?[] categoryIds)
         {
-            return await _productRepository.getProducts(Desc, minPrice, maxPrice, categoryIds);
+            return await _productRepository.getProducts(desc, minPrice, maxPrice, categoryIds);
         }
     }
 }

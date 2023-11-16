@@ -69,7 +69,7 @@ p.description {
     font-size: 22px;
 }
 
-button {
+/*button {
     background-color: #78a07a;
     color: #3c575a;
     padding: 14px 20px;
@@ -80,7 +80,7 @@ button {
     opacity: 0.9;
     font-family: Calibri;
     font-size: x-large;
-}
+}*/
 
     button:hover, :focus {
         opacity: 1;
@@ -114,7 +114,7 @@ button {
 }
 
 .Icon {
-    background-image: url(../Images/BagActive.png);
+    background-image: url(../icon/BagActive.png);
     background-repeat: no-repeat;
     padding: 9px 2px 2px 2px;
     color: #4f8855;
