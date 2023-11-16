@@ -32,7 +32,6 @@ const filterProducts = async () => {
         if (!p.ok)
             throw new Error("Error: Failed to fetch products")
         const products = await p.json()
-        console.log(products)
         document.getElementById("ProductList").replaceChildren([])
 
         products.forEach(p => drawProducts(p))
@@ -67,6 +66,9 @@ const drawCategories = async () => {
             var tmpCatg = document.getElementById("temp-category");
             var cln = tmpCatg.content.cloneNode(true);
             cln.querySelector("span.OptionName").innerText = categories[i].categoryName;
+            cln.querySelector("span.OptionName").id = categories[i].categoryId;
+            cln.querySelector(".opt").addEventListener("change", () => filterProducts());
+
             document.getElementById("categoryList").appendChild(cln);
         }
     }
