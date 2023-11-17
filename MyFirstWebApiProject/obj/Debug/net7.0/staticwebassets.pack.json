@@ -1,47 +1,47 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\forms.css",
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\forms.css",
       "PackagePath": "staticwebassets\\forms.css"
     },
     {
-      "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\icon\\BagActive.png",
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\icon\\BagActive.png",
       "PackagePath": "staticwebassets\\icon\\BagActive.png"
     },
     {
-      "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\icon\\icn-remove.png",
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\icon\\icn-remove.png",
       "PackagePath": "staticwebassets\\icon\\icn-remove.png"
     },
     {
-      "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\icon\\searchIcon.svg",
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\icon\\searchIcon.svg",
       "PackagePath": "staticwebassets\\icon\\searchIcon.svg"
     },
     {
-      "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\login.html",
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\login.html",
       "PackagePath": "staticwebassets\\login.html"
     },
     {
-      "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\mySite.html",
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\mySite.html",
       "PackagePath": "staticwebassets\\mySite.html"
     },
     {
-      "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\pic\\NoPic.png",
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\pic\\NoPic.png",
       "PackagePath": "staticwebassets\\pic\\NoPic.png"
     },
     {
-      "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.css",
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.css",
       "PackagePath": "staticwebassets\\store.css"
     },
     {
-      "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.html",
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.html",
       "PackagePath": "staticwebassets\\store.html"
     },
     {
-      "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.js",
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.js",
       "PackagePath": "staticwebassets\\store.js"
     },
     {
-      "Id": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\user.js",
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\user.js",
       "PackagePath": "staticwebassets\\user.js"
     },
     {

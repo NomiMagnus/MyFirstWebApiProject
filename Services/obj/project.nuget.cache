@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4IyHJ5ilO/Jmexg0DFqI7UbeUtlh2Gs9s+NzEunu58H7H3qM23qtaSTlnwoJrVX07d1TuoHOCeRLDfl0cv5eMQ==",
+  "dgSpecHash": "fOw7AMKmEqld+tTsPicBhzU9GxiRgexPpI3iyyQvQIvnX+4BO8myYJ/gg+h8XABgXsPcneLuqmPPRYE5OsFWpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\325573392\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\325573392\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

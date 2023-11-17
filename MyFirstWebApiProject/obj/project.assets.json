@@ -3407,11 +3407,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\MyFirstWebApiProject.csproj",
+      "projectUniqueName": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\MyFirstWebApiProject.csproj",
       "projectName": "MyFirstWebApiProject",
-      "projectPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\MyFirstWebApiProject.csproj",
+      "projectPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\MyFirstWebApiProject.csproj",
       "packagesPath": "C:\\Users\\325573392\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\MyFirstWebApiProject\\obj\\",
+      "outputPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3433,11 +3433,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Entities\\Entities.csproj"
+            "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\325573392\\Source\\Repos\\NomiMagnus\\MyFirstWebApiProject\\Services\\Services.csproj"
+            "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\Services\\Services.csproj"
             }
           }
         }

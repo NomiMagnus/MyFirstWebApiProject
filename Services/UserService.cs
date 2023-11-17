@@ -29,6 +29,8 @@ namespace Services
         }
         public int checkpassword(string pwd)
         {
+            if (pwd=="")
+                return 0;
             var result =  Zxcvbn.Core.EvaluatePassword(pwd);
             return result.Score;
         }

@@ -4,9 +4,13 @@
 
 const filterProducts = async () => {
     let Categories = [];
-    const allCategoriesOptions = document.querySelectorAll(".opt");
+    let allCategoriesOptions = document.querySelectorAll(".OptionName");
     for (let i = 0; i < allCategoriesOptions.length; i++) {
-        if (allCategoriesOptions[i].checked) Categories.push(allCategoriesOptions[i].id)
+        if (allCategoriesOptions[i].checked) {
+            console.log(allCategoriesOptions[i].value)
+            console.log(allCategoriesOptions[i].checked)
+            Categories.push(allCategoriesOptions[i].value)
+        }
     }
     
     const minPrice = document.getElementById("minPrice").value
@@ -14,7 +18,7 @@ const filterProducts = async () => {
     const pName = document.getElementById("nameSearch").innerText
 
     try {
-        const url = `api/Product?desc=${pName}&minPrice=${minPrice}&maxPrice=${maxPrice}`;
+        let url = `api/Product?desc=${pName}&minPrice=${minPrice}&maxPrice=${maxPrice}`;
         if (Categories) {
             for (let i = 0; i < Categories.length; i++) {
                 url += `&categoryIds=${Categories[i]}`
@@ -33,6 +37,7 @@ const filterProducts = async () => {
             throw new Error("Error: Failed to fetch products")
         const products = await p.json()
         document.getElementById("ProductList").replaceChildren([])
+        document.getElementById("counter").innerText = products.length
 
         products.forEach(p => drawProducts(p))
     }
@@ -52,6 +57,9 @@ const drawProducts = (product) => {
     cloneProducts.querySelector(".description").innerText = product.description;
     cloneProducts.querySelector("button").addEventListener("click", () => addToCart(product));
     document.getElementById("ProductList").appendChild(cloneProducts);
+
+    let itemCount = document.getElementById("ItemsCountText")
+    itemCount.innerText = myCart.length
 }
 
 
@@ -65,9 +73,11 @@ const drawCategories = async () => {
         for (let i = 0; i < categories.length; i++) {
             var tmpCatg = document.getElementById("temp-category");
             var cln = tmpCatg.content.cloneNode(true);
-            cln.querySelector("span.OptionName").innerText = categories[i].categoryName;
-            cln.querySelector("span.OptionName").id = categories[i].categoryId;
-            cln.querySelector(".opt").addEventListener("change", () => filterProducts());
+            cln.querySelector(".OptionName").innerText = categories[i].categoryName;
+            cln.querySelector(".OptionName").id = categories[i].categoryId;
+            cln.querySelector(".OptionName").value = categories[i].categoryId;
+
+            cln.querySelector(".opt").addEventListener("click", () => filterProducts());
 
             document.getElementById("categoryList").appendChild(cln);
         }
@@ -77,6 +87,11 @@ const drawCategories = async () => {
     }
 }
 
-const addToCart = (product) => {
+let myCart = JSON.parse(sessionStorage.getItem("myCart")) || []
 
+const addToCart = (product) => {
+    myCart.push(product)
+    sessionStorage.setItem("myCart", JSON.stringify(myCart))
+    let itemCount = document.getElementById("ItemsCountText")
+    itemCount.innerText = myCart.length
 }

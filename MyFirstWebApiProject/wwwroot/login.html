@@ -20,9 +20,8 @@
               <label for="txtEmailReg">email</label><br />
               <input id="txtEmailReg" type="email" required /><br />
               <label for="txtPasswordReg">password</label><br />
-              <input id="txtPasswordReg" type="password" required maxlength="15" minLength="8" /><br />
-              <button onclick="checkPassword(txtPasswordReg.value)">Check password strength</button><br />
-              <progress id="progress" value="0" max="4"></progress><br />
+              <input id="txtPasswordReg" type="password" required maxlength="15" minLength="8" oninput="checkPassword(txtPasswordReg.value)"/><br />
+              password strength<progress id="progress" value="0" max="4"></progress><br />
               <label for="txtFName">first name</label><br />
               <input id="txtFName" type="text" maxlength="20" min="2" /><br />
               <label for="txtLName">last name</label><br />
