@@ -1,8 +1,32 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\forms.css",
-      "PackagePath": "staticwebassets\\forms.css"
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\Scripts\\ShoppingBag.js",
+      "PackagePath": "staticwebassets\\Scripts\\ShoppingBag.js"
+    },
+    {
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\Scripts\\store.js",
+      "PackagePath": "staticwebassets\\Scripts\\store.js"
+    },
+    {
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\Scripts\\user.js",
+      "PackagePath": "staticwebassets\\Scripts\\user.js"
+    },
+    {
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\ShoppingBag.html",
+      "PackagePath": "staticwebassets\\ShoppingBag.html"
+    },
+    {
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\Styles\\ShoppingBag.css",
+      "PackagePath": "staticwebassets\\Styles\\ShoppingBag.css"
+    },
+    {
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\Styles\\forms.css",
+      "PackagePath": "staticwebassets\\Styles\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\Styles\\store.css",
+      "PackagePath": "staticwebassets\\Styles\\store.css"
     },
     {
       "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\icon\\BagActive.png",
@@ -29,20 +53,8 @@
       "PackagePath": "staticwebassets\\pic\\NoPic.png"
     },
     {
-      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.css",
-      "PackagePath": "staticwebassets\\store.css"
-    },
-    {
       "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.html",
       "PackagePath": "staticwebassets\\store.html"
-    },
-    {
-      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.js",
-      "PackagePath": "staticwebassets\\store.js"
-    },
-    {
-      "Id": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\user.js",
-      "PackagePath": "staticwebassets\\user.js"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MyFirstWebApiProject.Microsoft.AspNetCore.StaticWebAssets.props",

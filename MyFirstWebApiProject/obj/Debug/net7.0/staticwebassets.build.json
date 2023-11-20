@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Za9yoDjTQmj5KzRfUso+m4LObXm9+twudea5Kezcl+I=",
+  "Hash": "OUu9fhGf3FQJ48vIaUuGH5k/llWv7iK5e02FPaKs+zQ=",
   "Source": "MyFirstWebApiProject",
   "BasePath": "_content/MyFirstWebApiProject",
   "Mode": "Default",
@@ -16,23 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\forms.css",
-      "SourceId": "MyFirstWebApiProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
-      "BasePath": "_content/MyFirstWebApiProject",
-      "RelativePath": "forms.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\forms.css"
-    },
     {
       "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\icon\\BagActive.png",
       "SourceId": "MyFirstWebApiProject",
@@ -136,12 +119,12 @@
       "OriginalItemSpec": "wwwroot\\pic\\NoPic.png"
     },
     {
-      "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.css",
+      "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\Scripts\\ShoppingBag.js",
       "SourceId": "MyFirstWebApiProject",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
       "BasePath": "_content/MyFirstWebApiProject",
-      "RelativePath": "store.css",
+      "RelativePath": "Scripts/ShoppingBag.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,7 +133,58 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\store.css"
+      "OriginalItemSpec": "wwwroot\\Scripts\\ShoppingBag.js"
+    },
+    {
+      "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\Scripts\\store.js",
+      "SourceId": "MyFirstWebApiProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "BasePath": "_content/MyFirstWebApiProject",
+      "RelativePath": "Scripts/store.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\store.js"
+    },
+    {
+      "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\Scripts\\user.js",
+      "SourceId": "MyFirstWebApiProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "BasePath": "_content/MyFirstWebApiProject",
+      "RelativePath": "Scripts/user.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\user.js"
+    },
+    {
+      "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\ShoppingBag.html",
+      "SourceId": "MyFirstWebApiProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "BasePath": "_content/MyFirstWebApiProject",
+      "RelativePath": "ShoppingBag.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ShoppingBag.html"
     },
     {
       "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.html",
@@ -170,12 +204,12 @@
       "OriginalItemSpec": "wwwroot\\store.html"
     },
     {
-      "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\store.js",
+      "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\Styles\\forms.css",
       "SourceId": "MyFirstWebApiProject",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
       "BasePath": "_content/MyFirstWebApiProject",
-      "RelativePath": "store.js",
+      "RelativePath": "Styles/forms.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\store.js"
+      "OriginalItemSpec": "wwwroot\\Styles\\forms.css"
     },
     {
-      "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\user.js",
+      "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\Styles\\ShoppingBag.css",
       "SourceId": "MyFirstWebApiProject",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
       "BasePath": "_content/MyFirstWebApiProject",
-      "RelativePath": "user.js",
+      "RelativePath": "Styles/ShoppingBag.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,7 +235,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\user.js"
+      "OriginalItemSpec": "wwwroot\\Styles\\ShoppingBag.css"
+    },
+    {
+      "Identity": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\Styles\\store.css",
+      "SourceId": "MyFirstWebApiProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\325573392\\Desktop\\MyFirstWebApiProject\\MyFirstWebApiProject\\wwwroot\\",
+      "BasePath": "_content/MyFirstWebApiProject",
+      "RelativePath": "Styles/store.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Styles\\store.css"
     }
   ]
 }

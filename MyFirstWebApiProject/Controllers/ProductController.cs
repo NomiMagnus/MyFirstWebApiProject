@@ -19,6 +19,6 @@ namespace MyFirstWebApiProject.Controllers
         public async Task<List<Product>> getProducts(string? desc, int? minPrice, int? maxPrice, [FromQuery] int?[] categoryIds)
         {
            return await _productService.getProducts(desc, minPrice, maxPrice, categoryIds); 
-   }
+        }
     }
 }
