@@ -14,18 +14,18 @@
             alert("Your password is weak, Enter password again!");
         else {
             const res = await fetch("/api/user", {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(user)
-        })
-        if (!res.ok)
-            throw new Error("Error: Adding user to server");
-        const created = await res.json();
-        
-        document.getElementById("Register").style.visibility = "hidden";
-        alert(`${created.firstName} created`);
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(user)
+            })
+            if (!res.ok)
+                throw new Error("Error: Adding user to server");
+            const created = await res.json();
+
+            document.getElementById("Register").style.visibility = "hidden";
+            alert(`${created.firstName} created`);
         }
     }
     catch (ex) {
@@ -33,7 +33,7 @@
     }
 }
 
-const registerVisible = () => document.getElementById("Register").style.visibility="visible";
+const registerVisible = () => document.getElementById("Register").style.visibility = "visible";
 
 
 const login = async () => {
@@ -47,15 +47,9 @@ const login = async () => {
             throw new Error("Error: login user to server");
         const myUser = await res.json();
         sessionStorage.setItem("User", JSON.stringify(myUser))
-        document.location.href = "https://localhost:44331/mySite.html"
-        alert(`Welcome ${myUser.firstName}!`);
-
-        //const u = JSON.parse(sessionStorage.getItem('User'))
-        //document.getElementById("txtFName").value = u.fName
-        //document.getElementById("txtLName").value = u.lName
-        //document.getElementById("txtEmail").value = u.email
-        //document.getElementById("txtPassword").value = u.password
-
+        document.location.href = await "https://localhost:44331/mySite.html"
+        let message = `Welcome ${myUser.firstName}!`
+        alert(message.trim());
     }
     catch (ex) {
         alert(ex.message)
@@ -109,7 +103,7 @@ const checkPassword = async (pass) => {
             throw new Error("Error: Check password strength failed")
 
         const score = await check.json()
-        document.getElementById("progress").value=score
+        document.getElementById("progress").value = score
 
         if (score > 2)
             return 1;
@@ -119,5 +113,12 @@ const checkPassword = async (pass) => {
     catch (ex) {
         alert(ex.message)
     }
-    
+
+}
+
+const fillFields = () => {
+    const u = JSON.parse(sessionStorage.getItem('User'))
+    console.log(u)
+    document.getElementById("txtFName").value = u.firstName || ''
+    document.getElementById("txtLName").value = u.lastName || ''
 }
