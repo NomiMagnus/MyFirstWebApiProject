@@ -16,13 +16,13 @@ const filterProducts = async () => {
     const pName = document.getElementById("nameSearch").value
 
     try {
-        let url = `api/Product?desc=${pName}&minPrice=${minPrice}&maxPrice=${maxPrice}`;
+        let url = `api/Product?desc=${pName}&minPrice=${minPrice}&maxPrice=${maxPrice}`;//change to plural
         if (Categories) {
             for (let i = 0; i < Categories.length; i++) {
                 url += `&categoryIds=${Categories[i]}`
             }
         }
-        const p = await fetch(url
+        const p = await fetch(url//p is not clean code
             ,
             {
                 method: 'GET',
@@ -69,7 +69,7 @@ const drawCategories = async () => {
 
         var tmpCatg = document.getElementById("temp-category").content;
 
-        categories.forEach(category => {
+        categories.forEach(category => { //split to smaller functions
             let clone = tmpCatg.cloneNode(true);
             clone.querySelector(".opt").id = category.categoryId;
             clone.querySelector("label").setAttribute("for", category.categoryId);
