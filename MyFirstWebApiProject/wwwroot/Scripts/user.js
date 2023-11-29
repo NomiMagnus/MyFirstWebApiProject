@@ -1,7 +1,7 @@
 ﻿const register = async () => {
     try {
         const user = {
-            FirstName: document.getElementById("txtFName").value,
+            FirstName: document.getElementById("txtFName").value,//change to lower case
             LastName: document.getElementById("txtLName").value,
             Email: document.getElementById("txtEmailReg").value,
             Password: document.getElementById("txtPasswordReg").value
@@ -42,12 +42,12 @@ const login = async () => {
             Email: document.getElementById("txtEmailLog").value,
             Password: document.getElementById("txtPasswordLog").value
         }
-        const res = await fetch(`/api/user?email=${user.Email}&password=${user.Password}`)
+        const res = await fetch(`/api/user?email=${user.Email}&password=${user.Password}`)//change to post if possible
         if (!res.ok)
             throw new Error("Error: login user to server");
         const myUser = await res.json();
         sessionStorage.setItem("User", JSON.stringify(myUser))
-        document.location.href = await "https://localhost:44331/mySite.html"
+        document.location.href = await "https://localhost:44331/mySite.html"//port should not be hard codede. "mySite.html" is enough
         let message = `Welcome ${myUser.firstName}!`
         alert(message.trim());
     }
@@ -69,7 +69,7 @@ const update = async () => {
         if (strong == 0)
             alert("Your password is weak, Enter password again!");
         else {
-            const res = await fetch(`/api/user/${user.UserId}`, {
+            const res = await fetch(`/api/user/${user.UserId}`, {//resources should be plural. change to api/users
                 method: 'PUT',
                 headers: {
                     'Content-Type': 'application/json'
