@@ -16,7 +16,7 @@ namespace Repository
         {
             _myStoreContext = myStoreContext;
         }
-
+//use PascalCase
         public async Task<List<Product>> getProducts(string? desc, int? minPrice, int? maxPrice, int?[] categoryIds)
         {
                 var query = _myStoreContext.Products.Where(product =>

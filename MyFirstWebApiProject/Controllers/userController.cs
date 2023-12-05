@@ -5,7 +5,7 @@ using System.Text.Json;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace MyFirstWebApiProject.Controllers
+namespace MyFirstWebApiProject.Controllers //rename file name to upper case
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -40,10 +40,10 @@ namespace MyFirstWebApiProject.Controllers
         public async Task<ActionResult> Post([FromBody] User user)
         {
             User newUser = await _userService.AddUser(user);
-            return CreatedAtAction(nameof(Get), new { id = newUser.UserId }, newUser);
+            return CreatedAtAction(nameof(Get), new { id = newUser.UserId }, newUser);//no get function is implemented
         }
 
-        [HttpPost("checkPassword")]
+        [HttpPost("checkPassword")]//should not be part of user resource
         public  ActionResult CheckPassword([FromBody]string pwd)
         {
             return Ok( _userService.checkpassword(pwd));
@@ -56,7 +56,7 @@ namespace MyFirstWebApiProject.Controllers
             await _userService.UpdateUser(id, userToUpdate);
         }
 
-        // DELETE api/<loginController>/5
+        // DELETE api/<loginController>/5 //remove completley
         //[HttpDelete("{id}")]
         //public void Delete(int id)
         //{
